@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 369175cf940c34b828c846ae5f6038f6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: goals
+    100004: Head
+    100006: Head_Goal
+    100008: Hip
+    100010: Joint_2
+    100012: Joint_2_2
+    100014: Joint_2_3
+    100016: Joint_3
+    100018: Joint_3_2
+    100020: Joint_3_3
+    100022: Joint_3_4
+    100024: Joint_4
+    100026: Joint_4_2
+    100028: Joint_4_3
+    100030: Joint_5
+    100032: Joint_5_2
+    100034: Joint_5_3
+    100036: Joint_5_4
+    100038: Joint_6
+    100040: Joint_6_2
+    100042: Joint_6_3
+    100044: Joint_7
+    100046: Joint_8
+    100048: L_Ankle
+    100050: L_CollarBone
+    100052: L_Elbow
+    100054: L_Knee
+    100056: L_Shoulder
+    100058: L_Toe
+    100060: L_Toe_Goal
+    100062: LB_Pelvis
+    100064: LB_Toe
+    100066: LB_Toe_Goal
+    100068: Neck
+    100070: R_Ankle
+    100072: R_CollarBone
+    100074: R_Elbow
+    100076: R_Knee
+    100078: R_Shoulder
+    100080: R_Toe
+    100082: R_Toe_Goal
+    100084: RB_Pelvis
+    100086: RB_Toe
+    100088: RB_Toe_Goal
+    100090: Root
+    100092: Scorpio
+    100094: //RootNode
+    100096: Sphere
+    100098: Spine
+    100100: Tail
+    100102: Tail_End
+    100104: Tail_End_Goal
+    400000: CINEMA_4D_Editor
+    400002: goals
+    400004: Head
+    400006: Head_Goal
+    400008: Hip
+    400010: Joint_2
+    400012: Joint_2_2
+    400014: Joint_2_3
+    400016: Joint_3
+    400018: Joint_3_2
+    400020: Joint_3_3
+    400022: Joint_3_4
+    400024: Joint_4
+    400026: Joint_4_2
+    400028: Joint_4_3
+    400030: Joint_5
+    400032: Joint_5_2
+    400034: Joint_5_3
+    400036: Joint_5_4
+    400038: Joint_6
+    400040: Joint_6_2
+    400042: Joint_6_3
+    400044: Joint_7
+    400046: Joint_8
+    400048: L_Ankle
+    400050: L_CollarBone
+    400052: L_Elbow
+    400054: L_Knee
+    400056: L_Shoulder
+    400058: L_Toe
+    400060: L_Toe_Goal
+    400062: LB_Pelvis
+    400064: LB_Toe
+    400066: LB_Toe_Goal
+    400068: Neck
+    400070: R_Ankle
+    400072: R_CollarBone
+    400074: R_Elbow
+    400076: R_Knee
+    400078: R_Shoulder
+    400080: R_Toe
+    400082: R_Toe_Goal
+    400084: RB_Pelvis
+    400086: RB_Toe
+    400088: RB_Toe_Goal
+    400090: Root
+    400092: Scorpio
+    400094: //RootNode
+    400096: Sphere
+    400098: Spine
+    400100: Tail
+    400102: Tail_End
+    400104: Tail_End_Goal
+    2000000: CINEMA_4D_Editor
+    2100000: PM3D_Sphere3D1
+    2100002: Scorpio_remesh_oPP
+    2300000: Sphere
+    3300000: Sphere
+    4300000: Sphere
+    4300002: Scorpio
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: Scorpio
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 56
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
